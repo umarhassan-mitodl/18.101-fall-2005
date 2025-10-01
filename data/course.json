@@ -1,0 +1,52 @@
+{
+  "term": "Fall",
+  "year": "2005",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Topology and Geometry"
+    ],
+    [
+      "Mathematics",
+      "Calculus"
+    ],
+    [
+      "Mathematics",
+      "Mathematical Analysis"
+    ]
+  ],
+  "legacy_uid": "114ebe16-b348-3f29-64a6-740ab51249ec",
+  "instructors": {
+    "content": [
+      "0ea55872-26cb-8324-4dd2-4144b12589a0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "d6cb407b-899e-fae9-c3d1-f5d19af09815",
+    "website": "18-101-analysis-ii-fall-2005"
+  },
+  "course_title": "Analysis II",
+  "hide_download": true,
+  "course_description": "This course continues from Analysis I (18.100B), in the direction of manifolds and global analysis. The first half of the course covers multivariable calculus. The rest of the course covers the theory of differential forms in n-dimensional vector spaces and manifolds.\n",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "18.101",
+  "course_image_thumbnail": {
+    "content": "563217a9-6119-c962-bd48-a2a6ff4db4ca",
+    "website": "18-101-analysis-ii-fall-2005"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "42a169b4-65e1-4c3e-a7bf-5d3b24293db1",
+  "site_short_id": "18.101-fall-2005",
+  "site_url_path": "courses/18-101-analysis-ii-fall-2005",
+  "title": "Course Metadata"
+}
