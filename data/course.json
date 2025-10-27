@@ -30,7 +30,6 @@
     "website": "18-101-analysis-ii-fall-2005"
   },
   "course_title": "Analysis II",
-  "hide_download": true,
   "course_description": "This course continues from Analysis I (18.100B), in the direction of manifolds and global analysis. The first half of the course covers multivariable calculus. The rest of the course covers the theory of differential forms in n-dimensional vector spaces and manifolds.\n",
   "department_numbers": [
     "18"
@@ -41,7 +40,6 @@
     "content": "563217a9-6119-c962-bd48-a2a6ff4db4ca",
     "website": "18-101-analysis-ii-fall-2005"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes"
   ],

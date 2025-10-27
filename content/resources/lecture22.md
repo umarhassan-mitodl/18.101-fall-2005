@@ -5,8 +5,6 @@ description: 'This resource explains the topics: The d operator, pullback operat
 file: /courses/18-101-analysis-ii-fall-2005/4e0740a6723c45b2e6704719b4dc5b00_lecture22.pdf
 file_size: 181872
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

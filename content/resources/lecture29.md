@@ -4,8 +4,6 @@ description: This resource explains the topic topological invariance of degree.
 file: /courses/18-101-analysis-ii-fall-2005/8f5cc88d4b6d8e97e2988fa9bbffb736_lecture29.pdf
 file_size: 182199
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

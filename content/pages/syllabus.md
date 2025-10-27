@@ -2,8 +2,6 @@
 content_type: page
 description: The syllabus section includes prerequisites, homework, texts, and grading
   criteria for this course.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

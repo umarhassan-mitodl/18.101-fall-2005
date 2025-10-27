@@ -5,8 +5,6 @@ description: This resource provides information regarding multilinear?algebra, r
 file: /courses/18-101-analysis-ii-fall-2005/9743fac5e8a674c78af0364a14b62ca6_lecture16.pdf
 file_size: 342312
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

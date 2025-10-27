@@ -6,8 +6,6 @@ description: 'There exists a sequence of rectangles, Ri, i = 0; : : : ; N + 1 su
 file: /courses/18-101-analysis-ii-fall-2005/85039d705c63d3560c80ef124e2fc8e4_chp_sequence.jpg
 file_size: 20782
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

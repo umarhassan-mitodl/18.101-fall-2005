@@ -2,8 +2,6 @@
 content_type: page
 description: 'The assignment scetion includes two types of assignments given in this
   course: daily assignments and graded assignments.'
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
